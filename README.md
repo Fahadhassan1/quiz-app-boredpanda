@@ -2,7 +2,8 @@
 
 This is a simple yet functional quiz app built using **HTML**, **CSS**, **JavaScript**, and **Bootstrap**. It features five questions, supports user answer persistence via `localStorage`, includes a timer, and provides a responsive interface.
 
-A short video explaining this project can be viewed [here](#) *(Insert actual video link)*.
+A short video explaining this project can be viewed. 
+https://www.loom.com/share/ee7154b0c1254eaa973f0eeb993dcb1f
 
 ---
 
